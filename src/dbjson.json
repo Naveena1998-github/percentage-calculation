@@ -83,6 +83,13 @@
     "chemistry":100,
     "biology":100,
     "english":100
-    }
+    }, {
+        "id":11,
+        "maths":23,
+        "physics":45,
+        "chemistry":67,
+        "biology":45,
+        "english":78
+        }
    
     ]
