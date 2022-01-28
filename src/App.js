@@ -113,7 +113,12 @@ function App() {
           Get data from Server
         </button>
         {searchTerm ? <Results /> : null}
-      </div>
+        <hr></hr>
+      <p className="fw-bold fst-italic">Created By : Naveena Anbu</p>
+      
+      
+      </div> 
+     
     </div>
   );
 }
